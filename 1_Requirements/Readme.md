@@ -24,7 +24,7 @@
 * Calendaring software is software that minimally provides users with an electronic version of a calendar. Additionally, the software may provide an appointment book, address book, and/or contact list.
 * The primary practical use of a calendar is to identify days: to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
 ## SWOT ANALYSIS
-
+[click here](https://github.com/meghasgowda99/calendar_application_302301/blob/main/1_Requirements/SWOT%20Analysis.png) is the link.
 # 4W&#39;s and 1&#39;H
 
 ## Who:
