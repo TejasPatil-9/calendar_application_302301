@@ -25,34 +25,29 @@
 * The primary practical use of a calendar is to identify days: to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
 ## SWOT ANALYSIS
 [click here](https://github.com/meghasgowda99/calendar_application_302301/blob/main/1_Requirements/SWOT%20Analysis.png) is the link.
-# 4W&#39;s and 1&#39;H
-
+# 4W's and 1'H
 ## Who:
-
-**TBD**
-
+* This project can be used by all the education institutions and public librares. This system can also be used by people where males relies on digital calendars more than females
 ## What:
-
-**TBD**
-
+* The primary practical use of a calendar is to identify days: to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
 ## When:
-
-**TBD**
-
+* Calendars are used to help people manage their personal schedules, time, and activities, particularly when individuals have numerous work, school, and family commitments. People frequently use multiple systems and may keep both a business and family calendar to help prevent them from overcommitting their time.
 ## Where:
-
-**TBD**
-
+* Everwhere it can be used to be aware of dates.
 ## How:
-
-**TBD**
-
+* Calendar apps can help to schedule events, tasks, meetings, and customer calls in advance to gain control over your work. Many people have switched to calendar tools but still, some users don't use calendar apps on a daily basis. 
 # Detail requirements
+
 ## High Level Requirements:
 --- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
-
+| ID | Description | Status |
+| --- | --- | --- |
+| HR01 | To provide a reliable and easy to use tool that manages an individual's calendar | |
+| HR02 | In a manner comparable to non-electronic media such as day planners and date books | |
+| HR03 | To provide a secure group environment that manages a collection of individual calendars for the purposes of group scheduling and information sharing | |
+| HR04 | To provide fully documented public domain source code for use by others | |
+| HR05 | To provide a pedagogical example for use in the instruction of software engineering, including an example of the practical application of formal methods | |
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
