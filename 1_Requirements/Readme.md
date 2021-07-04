@@ -51,6 +51,7 @@
 ##  Low level Requirements:
 --- TBD in Tabular Format 
 | ID | Description | Status |
+| --- | --- | --- |
 | LR01 | The system should be able to work with any database | |
 | LR02 | A programmer should be able to access the store | |
 | LR03 | A programmer should be able to access the store as a Web Service (using SOAP and XML) | |
