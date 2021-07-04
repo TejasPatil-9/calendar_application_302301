@@ -1,7 +1,6 @@
 
 # Requirements
 ## Introduction
-* Stepin
 
 ## Research
 ![Description](Link to Pic)
