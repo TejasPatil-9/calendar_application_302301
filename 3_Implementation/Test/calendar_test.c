@@ -53,8 +53,8 @@ void display(void) {
 }
 
 void getkey(void) {
-  TEST_ASSERT_EQUAL(0);
+  TEST_ASSERT_EQUAL(31,28,31,30,31,30,31,31,30,31,30,31);
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1);
+  TEST_ASSERT_EQUAL(else);
 }
